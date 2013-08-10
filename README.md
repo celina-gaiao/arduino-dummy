@@ -1,4 +1,3 @@
-arduino-dummy
-=============
+#My Arduino learning projects
 
-My Arduino small projects
+I'm using http://learn.adafruit.com to learn more about arduino.
